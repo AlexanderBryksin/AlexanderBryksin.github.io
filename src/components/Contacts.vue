@@ -8,7 +8,8 @@
                     <div class="full-adress">
                         <div class="contact-padding col-md-12">
                             <p class="phone">Phone:
-                                <a :href="`tel:${contacts.code}${contacts.phone}`">{{contacts.code}} {{contacts.phone}}</a>
+                                <a :href="`tel:${contacts.code}${contacts.phone}`">{{contacts.code}} {{contacts.phone}} </a>
+                                <a target="_blank"  href="https://t.me/AlexanderBryksin"><i class="fa fa-telegram"></i></a>
                             </p>
                         </div>
                         <div class="contact-padding col-md-12">

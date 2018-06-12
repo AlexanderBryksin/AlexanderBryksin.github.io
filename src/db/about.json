@@ -1,7 +1,7 @@
 {
     "image": "author.jpeg",
-    "desc": "I am highly pasanated on javascript",
+    "desc": "I am highly pasanated on javascript, Creative and passionate Frontend Engineer with 1 year experience in developing, maintaining and supporting UI using modern Web Technologies and Agile methodology. Experienced in Cross-Platform development and in following D.R.Y patterns for readable codes.",
     "resume_link": "https://www.linkedin.com/in/alexander-bryksin/",
-    "download_icon": "fa fa-download",
-    "resume_btn_text": "Download resume"
+    "download_icon": "fa fa-linkedin",
+    "resume_btn_text": " Open linkedIn"
 }

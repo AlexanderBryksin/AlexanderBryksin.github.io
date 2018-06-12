@@ -12,6 +12,17 @@
                     <div class="about-text animated fadeInUp">
                         <div class="text-center">
                             <p>{{about.desc}}</p>
+                            <hr>
+                            <div>
+                              <h5>TECHNICAL SKILLS</h5> <br>
+                              Programming Skills: JavaScript(ES5, ES6, ES7), TypeScript/Flow, Node.js, HTML, CSS. <br>
+                              Main Frameworks: React, Vue, Angular, Redux, Mobx, jQuery, Express, mongoose.<br>
+                              Additional libraries: Lodash, Ramda, Bootstrap, Materialize, Bulma, Material-UI, Styled-components, CSS in JS, Vuetifyjs, CSS Modules, passport.js, Next.js, Nuxt.js, Immutable.js.<br>
+                              Databases: MongoDB, PostgresSQL.<br>
+                              Web Services: RESTful API (AJAX, Fetch, axios, Thunk/Redux-Saga).<br>
+                              Image tools: Photoshop, Zeplin, Avocode.<br>
+                              CSS pre-processors: SASS/SCSS, LESS, Stylus, PostCSS.<br>
+                            </div>
                             <a class="btn theme-color" :href="`${about.resume_link}`">
                                 <i :class="`${about.download_icon}`"></i>{{about.resume_btn_text}}</a>
                         </div>

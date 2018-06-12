@@ -40,7 +40,7 @@
                         <div class="row animated fadeInUp">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="welcome-text">
-                                    <div class="myname">{{intro.author.original_name}}</div>
+                                    <div class="myname">{{intro.author.original_name}} <i class="fa fa-rocket"></i></div>
                                     <div class="gap30"></div>
                                     <h3 class="white">{{intro.author.intro_description}}</h3>
                                 </div>
