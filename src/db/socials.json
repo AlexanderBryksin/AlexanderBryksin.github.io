@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "title": "facebook",
+            "target": "_blank",
+            "class": "fa fa-facebook",
+            "link": "https://www.facebook.com/aleksandr.bryksin.7"
+        },
+        {
+            "title": "git",
+            "target": "_blank",
+            "class": "fa fa-github",
+            "link": "https://github.com/AleksK1NG"
+        },
+        {
+            "title": "linkedin",
+            "target": "_blank",
+            "class": "fa fa-linkedin",
+            "link": "https://www.linkedin.com/in/alexander-bryksin/"
+        },
+        {
+          "title": "vk",
+          "target": "_blank",
+          "class": "fa fa-vk",
+          "link": "https://vk.com/id245544688"
+        }
+    ]
+}
