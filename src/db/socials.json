@@ -23,6 +23,12 @@
           "target": "_blank",
           "class": "fa fa-vk",
           "link": "https://vk.com/id245544688"
+        },
+        {
+          "title": "telegram",
+          "target": "_blank",
+          "class": "fa fa-telegram",
+          "link": "https://t.me/AlexanderBryksin"
         }
     ]
 }
