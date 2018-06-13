@@ -15,7 +15,7 @@
                             <hr>
                             <div>
                               <h5>TECHNICAL SKILLS</h5> <br>
-                              Programming Skills: JavaScript(ES5, ES6, ES7), TypeScript/Flow, Node.js, HTML, CSS. <br>
+                              Programming Skills: JavaScript, TypeScript, Node.js, HTML, CSS. <br>
                               Main Frameworks: React, Vue, Angular, Redux, Mobx, jQuery, Express, mongoose.<br>
                               Additional libraries: Lodash, Ramda, Bootstrap, Materialize, Bulma, Material-UI, Styled-components, CSS in JS, Vuetifyjs, CSS Modules, passport.js, Next.js, Nuxt.js, Immutable.js.<br>
                               Databases: MongoDB, PostgresSQL.<br>
