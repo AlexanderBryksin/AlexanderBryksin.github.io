@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "vue": "^2.3.3",
-    "express": "4.15.2"
+    "express": "4.17.3"
   },
   "devDependencies": {
     "request": "^2.81.0",
